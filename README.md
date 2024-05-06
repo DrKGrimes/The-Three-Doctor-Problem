@@ -6,8 +6,8 @@ A COSTAR format prompt that can be used to assess a clinical case presentation f
 Based on Graham Walker, MD post, this experimental GPT demonstrates a simple 'three persona' approach to consider a broad range of diagnoses. 
 
 ## Useful Links
-* [Original Graham Walker post(https://www.linkedin.com/posts/graham-walker-md_theres-a-little-game-we-play-in-the-activity-7192960744336842752--xe1)]
-* ?utm_source=share&utm_medium=member_desktop
+* [Original Graham Walker post](https://www.linkedin.com/posts/graham-walker-md_theres-a-little-game-we-play-in-the-activity-7192960744336842752--xe1)
+* 
 
 ## DISCLAIMER
 
